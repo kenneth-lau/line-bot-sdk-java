@@ -11,7 +11,7 @@ This is a Java SDK for the LINE Messaging API.
 
 ## How do I install it?
 
-We've uploaded the library to the Maven Central Repository. You can install the modules via Maven or Gradle.
+We've uploaded this library to the Maven Central Repository. You can install the modules using Maven or Gradle.
 
 http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.linecorp.bot%22
 
@@ -128,7 +128,7 @@ See http://semver.org/.
 
 You can use `LineMessagingServiceBuilder` to configure a proxy server. It accepts your own OkHttpBuilder instance.
 
-Note: You don't need to use an add-on like Fixie to have static IP addresses for proxy servers. You can make API calls even if you don't enter IP addresses on the the server IP whitelist.
+Note: You don't need to use an add-on like Fixie to have static IP addresses for proxy servers. You can make API calls without entering IP addresses on the server IP whitelist.
 
 ## LICENSE
 

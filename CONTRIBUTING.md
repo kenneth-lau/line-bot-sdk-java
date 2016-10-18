@@ -1,15 +1,13 @@
-## How to contribute to LINE Bot SDK for Java project
+## How to contribute to the LINE Messaging API SDK for Java project
 
-First of all, thank you so much for taking your time to contribute! LINE Bot SDK for Java is not very different from any other open
-source projects you are aware of. It will be amazing if you could help us by doing any of the following:
+Thank you for your interest in contributing to this project! The LINE Messaging API SDK for Java project is an open source project and we always welcome your contributions. You can contribute to this project in the following ways:
 
-- File an issue in [the issue tracker](https://github.com/line/line-bot-sdk-java/issues) to report bugs and propose new features and
-  improvements.
-- Ask a question using [the issue tracker](https://github.com/line/line-bot-sdk-java/issues).
-- Contribute your work by sending [a pull request](https://github.com/line/line-bot-sdk-java/pulls).
+- Filing an issue in [the issue tracker](https://github.com/line/line-bot-sdk-java/issues) to report bugs and to propose features and improvements.
+- Asking a question using [the issue tracker](https://github.com/line/line-bot-sdk-java/issues).
+- Contributing your work by sending [a pull request](https://github.com/line/line-bot-sdk-java/pulls).
 
 ### Contributor license agreement
 
-If you are sending a pull request and it's a non-trivial change beyond fixing typos, please make sure to sign
-[the ICLA (individual contributor license agreement)](https://feedback.line.me/enquete/public/919-h9Yqmr1u). Please
-contact us if you need the CCLA (corporate contributor license agreement).
+If you are sending a pull request that includes non-trivial changes beyond fixing typos, please sign the
+[ICLA (individual contributor license agreement)](https://feedback.line.me/enquete/public/919-h9Yqmr1u). Please
+contact us if you require the CCLA (corporate contributor license agreement).
